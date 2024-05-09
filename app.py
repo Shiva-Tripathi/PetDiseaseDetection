@@ -237,7 +237,7 @@ def main():
     elif selected == "Contributors":
         st.subheader("Contributors")
         st.markdown("<b><u>Project Contributors :</u></b> \n  ", unsafe_allow_html=True)
-        st.write("""1.  Panistha Gupta \n 2.  Varun Venkat Sarvanan \n   """)
+        st.write("""1.  Shiva Tripathi - 21BCE10149 \n 2.  Ramkrishnaji - 21BCE10325 \n  3. Shiva Gourav - 21BCE10175 \n 4. Kopal Soni - 21BCE10455 \n 5. Aastha Gupta - 21BCE11012 \n 6. Sreelakshmi Pradeep - 21BHI10041   """)
 
 if __name__ == '__main__':
     try:
